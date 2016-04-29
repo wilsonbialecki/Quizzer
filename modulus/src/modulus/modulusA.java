@@ -66,3 +66,4 @@ public class modulusA
 			System.out.println(counter+" was your final score.");
 		}
 	}
+//test
